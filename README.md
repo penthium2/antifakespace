@@ -28,7 +28,7 @@ fi
 ```
 Le fameux "302 240" !!
 
-Comme il arrive ? via workstation (pas tester dans une console esxi) il est généré quand on tape trop vite l'espace après un caractère générer via ATL-GR ( ALT-GR+espace) comme :
+Comme il arrive ? via workstation (pas tester dans une console esxi) il est généré quand on tape trop vite l'espace après un caractère générer via ATL-GR ( ALT-GR+espace) ou avec ces carractères :
 "[ | { ] } \"
  
 ou sur linux bien plus rare avec la combinaisons : "shift+ALT-GR+espace"
