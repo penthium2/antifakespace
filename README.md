@@ -5,7 +5,7 @@ Quel utilateur linux utilisant une VM dans workstation j'ai jamais eu ce type de
 
 ```
 var=0
- penthium2@fedora  ~  if [[ "$var" = 0 ]] ; then
+if [[ "$var" = 0 ]] ; then
 echo "$var"
 fi
 bash: [[ 0 : commande introuvable
