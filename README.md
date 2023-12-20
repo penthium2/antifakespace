@@ -1,7 +1,7 @@
 # antifakespace
-outils supprimant les espace insécables d'un script
+outils supprimant les espaces insécables d'un script
 
-Quel utilateur linux utilisant une VM dans workstation j'ai jamais eu ce type de comportemant : 
+Quel utilateur linux utilisant une VM dans workstation n'a jamais eu ce type de comportemant : 
 
 ```
 var=0
@@ -33,7 +33,7 @@ Comme il arrive ? via workstation (pas tester dans une console esxi) il est gén
  
 ou sur linux bien plus rare avec la combinaisons : "shift+ALT-GR+espace"
 
-de plus il y a le fameux caractère de fin de ligne windows "\r" (retour chariot) qui peut dans certain fichier de conf linux tout faire explosé.
+De plus il y a le fameux caractère de fin de ligne windows "\r" (retour chariot) qui peut dans certain fichier de conf linux tout faire exploser.
 
 Ce script va tout virer afin d'avoir un fichier propre.
 
